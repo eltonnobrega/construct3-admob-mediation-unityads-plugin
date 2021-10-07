@@ -1,0 +1,18 @@
+{
+  "languageTag": "en-US",
+  "fileDescription": "Strings for Admob mediation UnityAds Plugin",
+  "text": {
+    "plugins": {
+      "admob_mediation_unityads": {
+        "name": "Admob mediation UnityAds",
+        "description": "The Construct Plugin to extend the Admob plugin add features to support Unity Ads mediation.",
+        "help-url": "https://github.com/armandoalonso/c3IDE",
+        "properties": {},
+        "aceCategories": {},
+        "conditions": {},
+        "actions": {},
+        "expressions": {}
+      }
+    }
+  }
+}
